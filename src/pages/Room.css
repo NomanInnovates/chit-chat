@@ -1,0 +1,65 @@
+.roomPage{
+    display: flex;
+    flex-direction: column;
+}
+.roomHeader{
+    flex: 1;
+    display: flex;
+    background: #EDEDED;
+    padding: 30px;
+}
+.roomBody{
+    /* flex:2; */
+    padding: 20px;
+    min-height: 84vh;
+    background: url('../assets/bg.png');
+}
+.userName{
+    position: absolute;
+    left: 1px;
+    top: -15px;
+    font-weight: 800;
+    font-size: xx-small;
+}
+.message{
+    position: relative;
+    font-size: 16px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-bottom: 25px;
+    min-width: 125px;
+}
+.message.msgSent{
+    margin-left: auto;
+    background-color: #DCF8C6;
+}
+.roomFooter{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    background: #fff;
+    position: absolute;
+    padding: 10px;
+    bottom: 0;
+    width: 600px;
+}
+.roomFooter input:focus,
+.roomFooter input{
+    padding: 5px 10px;
+    outline: 0;
+    width: 85% !important;
+    border-radius: 50px;
+    border: 1px solid #aaa;
+}
+.roomFooter button{
+    width: 10%;
+    float: right;
+    padding: 7px;
+    border: 0;
+}
+.roomFooter{
+    position: fixed;
+}

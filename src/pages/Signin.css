@@ -1,0 +1,30 @@
+.signin-container{
+    text-align: center;
+    height:100vh ;
+    display: flex;
+    flex-direction: column;
+}
+.icon{
+    flex: 2;
+}
+.signInBtnContainer{
+    flex: 3;
+}
+.signInBtnContainer button{
+    margin: 20px;
+    padding: 0px 20px;
+}
+.icon img{
+    padding: 30px;
+    width: 150px;
+}
+.signinFooter{
+    flex: 1;
+}
+.socialLinks{
+    display: flex;
+    justify-content: space-between;
+    max-width: 300px;
+    margin: 10px auto;
+    font-size: 20px;
+}

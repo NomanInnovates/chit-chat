@@ -1,0 +1,13 @@
+.App {
+  background: #fff;
+  max-width: 600px;
+  height: 100vh;
+  margin:0 auto;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 0px #0000001f;
+  position: relative;
+}
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
