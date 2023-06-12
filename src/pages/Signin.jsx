@@ -35,7 +35,7 @@ function Signin () {
         </div>
 
         <div className='signInBtnContainer'>
-          {' '}
+         
           <Button onClick={handleClick} variant='primary'>
             Sign in with google
           </Button>
@@ -59,7 +59,7 @@ function Signin () {
             <a
               rel='noreferrer'
               target='_blank'
-              href='https://www.linkedin.com/in/noman-imran-9080891ba/'
+              href='https://www.linkedin.com/in/nomi0125/'
             >
               <FaLinkedin />
             </a>
