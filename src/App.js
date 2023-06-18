@@ -9,7 +9,7 @@ import { checkUser } from './redux/action/authAction';
 function App() {
   const dispatch = useDispatch();
   useEffect(() => {
-    // const auth = getAuth();
+
     async function check() {
       auth.onAuthStateChanged((someUser) => {
         if (someUser) {
