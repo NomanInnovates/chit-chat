@@ -4,7 +4,7 @@ import './App.css';
 import { auth } from './configs/firebase';
 import Navigation from './navigation/Navigation';
 import { checkUser } from './redux/action/authAction';
-// import { CHECKUSER } from './redux/constants/types';
+
 
 function App() {
   const dispatch = useDispatch();
