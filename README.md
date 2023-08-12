@@ -1,4 +1,4 @@
-# Chit Chat 
+# Chit Chat by NomanInnovates
 [Live Demo ](https://chat-app-0125.web.app/).
 ## Features
 
@@ -18,4 +18,11 @@
 - CSS: Used for styling the user interface.
 
 ## Contact
-For any questions or inquiries, please contact nomansandhu0125@gmail.com.
+For any questions or inquiries, please contact NomanInnovates@gmail.com or nomansandhu0125@gmail.com.
+# Developed with love by NomanInnovates
+#NomanInnovates
+#Noman 
+#Innovate
+#Innovates
+NomanInnovates.
+
